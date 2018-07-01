@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">HelloRuby Quiz</string>
+    <string name="hello_ruby">Hello Ruby Quiz 1</string>
+
+    <string name="ruby">little girl\'s face</string>
+
+    //Question one. Defining an algorithm.
+    <string name="algorithms">1. What is an Algorithm?</string>
+    //Answer range.
+    <string name="answer_a">A search engine</string>
+    <string name="answer_b">Thinking about problems in a way that allows computers to
+        solve them.</string>
+    <string name="answer_c">A set of specific instructions that you can follow to
+        solve a problem.</string>
+    <string name="answer_d">The process of separating out details that are not needed
+        in order to concentrate on the things that are needed.</string>
+
+    //Question two. Which of the given answers are examples of loops.
+    <string name="ruby_loop">2. Which of these are expressions of loops?</string>
+    <string name="answer_e">Infinite Loops</string>
+    <string name="answer_f">Counter Loops</string>
+    <string name="answer_g">While Loops</string>
+
+    //Question three. The user is expected to enter a number .
+    <string name="code_definition">3. how many friends did Ruby meet on her adventure ?</string>
+
+
+    //Question four. Tests the learners ability to identify boolean expressions.
+    <string name="ruby_bool">4. Which of these is not a boolean return value?</string>
+    <string-array name="true_bool">
+        <item>true</item>
+        <item>false</item>
+        <item>yes</item>
+    </string-array>
+
+    <string name="hint_one">enter your answer here</string>
+    <string name="username">Enter your Name Here</string>
+    <string name="submit">Submit</string>
+    <string name="your_score">Your Score</string>
+
+    //Asks Question five and supplies checkbox multiple choice.
+    <string name="image_question">5. According to the image which are the missing steps in algorithms A, B, C?
+        Which of the answers below the image represents the missing steps</string>
+    <string name="answer_3">turn off water, set table cloth should come first, missing a Loop after if statement</string>
+    <string name="answer_2">There\'s nothing wrong with any of the algorithms</string>
+    <string name="answer_1">set table cloth should come first, turn off water, missing a Loop after if statement</string>
+
+
+</resources>
